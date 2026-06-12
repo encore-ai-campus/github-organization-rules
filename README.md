@@ -10,11 +10,22 @@
 
 ---
 
+## 빠른 링크
+
+- [encore-ai-campus Organization](https://github.com/encore-ai-campus)
+- [Repositories](https://github.com/orgs/encore-ai-campus/repositories)
+- [New repository](https://github.com/organizations/encore-ai-campus/repositories/new)
+- [Teams](https://github.com/orgs/encore-ai-campus/teams)
+- [People](https://github.com/orgs/encore-ai-campus/people)
+
+---
+
 <a id="organization-team-rules"></a>
 
 ## 1. Organization 멤버 및 Team 관리 규칙
 
 - Team 관리는 [encore-ai-campus Teams](https://github.com/orgs/encore-ai-campus/teams)에서 진행한다.
+- Organization 멤버 관리는 [encore-ai-campus People](https://github.com/orgs/encore-ai-campus/people)에서 진행한다.
 - 훈련생은 Outside collaborator가 아닌 Organization member로 초대한다.
 - 훈련생은 소속 과정/기수에 해당하는 Team에 배정한다.
 - Team 이름은 `{과정코드}-{기수번호}` 형식으로 작성한다.
@@ -33,6 +44,8 @@
 
 ## 2. Repository 권한 규칙
 
+- Repository별 권한은 각 Repository의 `Settings > Collaborators and teams`에서 관리한다.
+
 | 대상          | 권한                                     |
 | ------------- | ---------------------------------------- |
 | CAMPUS-ADMIN  | Organization Owner 또는 Repository Admin |
@@ -46,6 +59,7 @@
 
 ## 3. Branch 관리 원칙
 
+- Repository 생성 시 기본 브랜치명이 `main`인지 확인한다.
 - 기본 브랜치는 `main`으로 고정한다.
 - `main` 브랜치는 최종 검토가 완료된 산출물을 기준으로 관리한다.
 - 작업 중인 내용은 별도 브랜치에서 관리하고, 검토 후 `main`에 반영한다.
@@ -58,6 +72,7 @@
 ## 4. Repository 이름 규칙
 
 Repository 이름은 짧고 일관되게 작성한다.
+Repository 생성은 [New repository](https://github.com/organizations/encore-ai-campus/repositories/new)에서 진행한다.
 
 ```text
 {과정기수}-{프로젝트회차}-{프로젝트팀}[-구분]
