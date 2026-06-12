@@ -1,14 +1,16 @@
 ## 목차
 
-1. Organization 멤버 및 Team 관리 규칙
-2. Repository 권한 규칙
-3. Branch 관리 원칙
-4. Repository 이름 규칙
-5. Repository Description 작성 규칙
-6. Repository 이름 작성 원칙
-7. 최종 예시
+1. [Organization 멤버 및 Team 관리 규칙](#organization-team-rules)
+2. [Repository 권한 규칙](#repository-permission-rules)
+3. [Branch 관리 원칙](#branch-rules)
+4. [Repository 이름 규칙](#repository-name-rules)
+5. [Repository Description 작성 규칙](#repository-description-rules)
+6. [Repository 이름 작성 원칙](#repository-name-principles)
+7. [최종 예시](#examples)
 
 ---
+
+<a id="organization-team-rules"></a>
 
 ## 1. Organization 멤버 및 Team 관리 규칙
 
@@ -26,6 +28,8 @@
 
 ---
 
+<a id="repository-permission-rules"></a>
+
 ## 2. Repository 권한 규칙
 
 | 대상          | 권한                                     |
@@ -37,6 +41,8 @@
 
 ---
 
+<a id="branch-rules"></a>
+
 ## 3. Branch 관리 원칙
 
 - 기본 브랜치는 `main`으로 고정한다.
@@ -45,6 +51,8 @@
 - 필요 시 `dev`, `feature/{기능명}`, `fix/{수정명}`, `docs/{문서명}` 등의 브랜치를 사용할 수 있다.
 
 ---
+
+<a id="repository-name-rules"></a>
 
 ## 4. Repository 이름 규칙
 
@@ -98,6 +106,8 @@ mle-00-fin-team4-infra
 
 ---
 
+<a id="repository-description-rules"></a>
+
 ## 5. Repository Description 작성 규칙
 
 Repository Description에는 프로젝트 설명을 작성한다.
@@ -128,6 +138,8 @@ RAG 기반 사내 문서 검색 챗봇
 
 ---
 
+<a id="repository-name-principles"></a>
+
 ## 6. Repository 이름 작성 원칙
 
 - 모든 문자는 영문 소문자를 사용한다.
@@ -138,6 +150,8 @@ RAG 기반 사내 문서 검색 챗봇
 - `fe`, `be`, `dev` 등 구분값은 Repository를 분리해야 할 때만 사용한다.
 
 ---
+
+<a id="examples"></a>
 
 ## 7. 최종 예시
 
