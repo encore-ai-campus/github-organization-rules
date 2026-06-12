@@ -14,6 +14,7 @@
 
 ## 1. Organization 멤버 및 Team 관리 규칙
 
+- Team 관리는 [encore-ai-campus Teams](https://github.com/orgs/encore-ai-campus/teams)에서 진행한다.
 - 훈련생은 Outside collaborator가 아닌 Organization member로 초대한다.
 - 훈련생은 소속 과정/기수에 해당하는 Team에 배정한다.
 - Team 이름은 `{과정코드}-{기수번호}` 형식으로 작성한다.
